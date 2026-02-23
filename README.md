@@ -1,5 +1,9 @@
 # 🍽️ Sabor Express
 
+![Alura](https://img.shields.io/badge/Curso-Alura-blue?logo=data:image/png;base64,iVBORw0KGgo=)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
+![Status](https://img.shields.io/badge/status-em%20estudo-green)
+
 Sistema simples de gerenciamento de restaurantes desenvolvido em
 **Python**, executado via terminal (CLI).\
 O projeto permite cadastrar restaurantes, listar registros e alternar o
